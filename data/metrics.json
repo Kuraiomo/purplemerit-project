@@ -1,0 +1,195 @@
+{
+  "feature": "Smart Payments",
+  "launch_day": 4,
+  "baseline_period": [1, 2, 3],
+  "launch_period": [4, 5, 6, 7, 8, 9, 10],
+  "metrics": {
+    "activation_conversion_pct": {
+      "description": "% of new signups who activate Smart Payments",
+      "threshold_min": 40.0,
+      "unit": "percent",
+      "values": {
+        "day_1": 41.2,
+        "day_2": 42.0,
+        "day_3": 41.8,
+        "day_4": 44.5,
+        "day_5": 46.2,
+        "day_6": 47.1,
+        "day_7": 46.8,
+        "day_8": 45.9,
+        "day_9": 44.3,
+        "day_10": 43.1
+      }
+    },
+    "dau": {
+      "description": "Daily Active Users",
+      "threshold_min": 8000,
+      "unit": "users",
+      "values": {
+        "day_1": 8200,
+        "day_2": 8350,
+        "day_3": 8400,
+        "day_4": 8900,
+        "day_5": 9200,
+        "day_6": 9400,
+        "day_7": 9350,
+        "day_8": 9100,
+        "day_9": 8850,
+        "day_10": 8600
+      }
+    },
+    "wau": {
+      "description": "Weekly Active Users",
+      "threshold_min": 30000,
+      "unit": "users",
+      "values": {
+        "day_1": 31000,
+        "day_2": 31200,
+        "day_3": 31500,
+        "day_4": 33000,
+        "day_5": 34500,
+        "day_6": 35200,
+        "day_7": 35800,
+        "day_8": 35500,
+        "day_9": 34900,
+        "day_10": 34100
+      }
+    },
+    "d1_retention_pct": {
+      "description": "% of new users returning next day",
+      "threshold_min": 35.0,
+      "unit": "percent",
+      "values": {
+        "day_1": 38.5,
+        "day_2": 39.1,
+        "day_3": 38.8,
+        "day_4": 39.5,
+        "day_5": 38.2,
+        "day_6": 36.9,
+        "day_7": 35.8,
+        "day_8": 34.2,
+        "day_9": 33.1,
+        "day_10": 32.4
+      }
+    },
+    "d7_retention_pct": {
+      "description": "% of users returning after 7 days",
+      "threshold_min": 20.0,
+      "unit": "percent",
+      "values": {
+        "day_1": 24.1,
+        "day_2": 24.5,
+        "day_3": 24.3,
+        "day_4": 24.8,
+        "day_5": 23.9,
+        "day_6": 23.1,
+        "day_7": 22.4,
+        "day_8": 21.8,
+        "day_9": 21.0,
+        "day_10": 20.3
+      }
+    },
+    "crash_rate_pct": {
+      "description": "% of sessions ending in a crash",
+      "threshold_max": 1.5,
+      "unit": "percent",
+      "values": {
+        "day_1": 0.4,
+        "day_2": 0.5,
+        "day_3": 0.4,
+        "day_4": 0.6,
+        "day_5": 0.9,
+        "day_6": 1.4,
+        "day_7": 1.8,
+        "day_8": 2.3,
+        "day_9": 2.7,
+        "day_10": 2.9
+      }
+    },
+    "api_latency_p95_ms": {
+      "description": "95th percentile API response time in milliseconds",
+      "threshold_max": 800,
+      "unit": "ms",
+      "values": {
+        "day_1": 310,
+        "day_2": 305,
+        "day_3": 312,
+        "day_4": 380,
+        "day_5": 450,
+        "day_6": 590,
+        "day_7": 710,
+        "day_8": 820,
+        "day_9": 890,
+        "day_10": 940
+      }
+    },
+    "payment_success_rate_pct": {
+      "description": "% of payment attempts that succeed",
+      "threshold_min": 95.0,
+      "unit": "percent",
+      "values": {
+        "day_1": 98.1,
+        "day_2": 98.3,
+        "day_3": 98.2,
+        "day_4": 97.8,
+        "day_5": 97.1,
+        "day_6": 96.2,
+        "day_7": 95.1,
+        "day_8": 93.8,
+        "day_9": 92.4,
+        "day_10": 91.2
+      }
+    },
+    "support_ticket_volume": {
+      "description": "Number of support tickets raised per day",
+      "threshold_max": 150,
+      "unit": "tickets",
+      "values": {
+        "day_1": 82,
+        "day_2": 79,
+        "day_3": 85,
+        "day_4": 98,
+        "day_5": 124,
+        "day_6": 167,
+        "day_7": 198,
+        "day_8": 243,
+        "day_9": 289,
+        "day_10": 312
+      }
+    },
+    "feature_funnel_completion_pct": {
+      "description": "% of users who complete the full Smart Payments setup funnel",
+      "threshold_min": 60.0,
+      "unit": "percent",
+      "values": {
+        "day_1": 71.2,
+        "day_2": 72.0,
+        "day_3": 71.8,
+        "day_4": 70.5,
+        "day_5": 68.9,
+        "day_6": 66.4,
+        "day_7": 64.1,
+        "day_8": 62.3,
+        "day_9": 60.8,
+        "day_10": 59.2
+      }
+    },
+    "churn_rate_pct": {
+      "description": "% of active users who cancelled or churned",
+      "threshold_max": 2.0,
+      "unit": "percent",
+      "values": {
+        "day_1": 1.1,
+        "day_2": 1.0,
+        "day_3": 1.1,
+        "day_4": 1.2,
+        "day_5": 1.3,
+        "day_6": 1.5,
+        "day_7": 1.8,
+        "day_8": 2.1,
+        "day_9": 2.4,
+        "day_10": 2.7
+      }
+    }
+  }
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "day": 4,
+    "rating": 5,
+    "sentiment": "positive",
+    "text": "Smart Payments is super slick. Setup took 2 minutes and my first transaction went through instantly."
+  },
+  {
+    "id": 2,
+    "day": 4,
+    "rating": 4,
+    "sentiment": "positive",
+    "text": "Really clean UI for the new payment flow. Much better than the old checkout process."
+  },
+  {
+    "id": 3,
+    "day": 4,
+    "rating": 5,
+    "sentiment": "positive",
+    "text": "Finally! One-tap payments work perfectly on my end. Great update."
+  },
+  {
+    "id": 4,
+    "day": 5,
+    "rating": 3,
+    "sentiment": "neutral",
+    "text": "Payment setup was fine but the confirmation screen took a while to load. Not a dealbreaker."
+  },
+  {
+    "id": 5,
+    "day": 5,
+    "rating": 4,
+    "sentiment": "positive",
+    "text": "Loving the new feature. Had one transaction pending for a bit but resolved itself."
+  },
+  {
+    "id": 6,
+    "day": 5,
+    "rating": 2,
+    "sentiment": "negative",
+    "text": "My payment failed twice before going through on the third try. This is really frustrating."
+  },
+  {
+    "id": 7,
+    "day": 5,
+    "rating": 3,
+    "sentiment": "neutral",
+    "text": "App feels a little slower since the update. Nothing broken though, just noticeable."
+  },
+  {
+    "id": 8,
+    "day": 6,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "Payment failed and I was charged anyway. Raised a support ticket but no response yet. Very unhappy."
+  },
+  {
+    "id": 9,
+    "day": 6,
+    "rating": 2,
+    "sentiment": "negative",
+    "text": "The app crashed right after I submitted my payment. Don't know if it went through or not. Scary."
+  },
+  {
+    "id": 10,
+    "day": 6,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "Three failed transactions today. This is unacceptable for a payments feature. Rolling back to manual."
+  },
+  {
+    "id": 11,
+    "day": 6,
+    "rating": 4,
+    "sentiment": "positive",
+    "text": "Works great for me. Fast and easy to use."
+  },
+  {
+    "id": 12,
+    "day": 6,
+    "rating": 2,
+    "sentiment": "negative",
+    "text": "Tried to complete the payment setup 3 times. Keeps timing out at the last step."
+  },
+  {
+    "id": 13,
+    "day": 7,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "Payment failure with no error message. Money deducted but order not placed. This is a serious bug."
+  },
+  {
+    "id": 14,
+    "day": 7,
+    "rating": 2,
+    "sentiment": "negative",
+    "text": "App crashes whenever I try to use Smart Payments on my Android. Reverted to old method."
+  },
+  {
+    "id": 15,
+    "day": 7,
+    "rating": 3,
+    "sentiment": "neutral",
+    "text": "Mixed experience. Works sometimes, fails others. Seems inconsistent depending on time of day."
+  },
+  {
+    "id": 16,
+    "day": 7,
+    "rating": 5,
+    "sentiment": "positive",
+    "text": "No issues here. The feature is fast and the UI is really intuitive."
+  },
+  {
+    "id": 17,
+    "day": 7,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "Submitted a support ticket 2 days ago about payment failure. Still no resolution. Terrible support."
+  },
+  {
+    "id": 18,
+    "day": 8,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "This is the fourth time my payment has failed this week. I'm considering cancelling my subscription."
+  },
+  {
+    "id": 19,
+    "day": 8,
+    "rating": 2,
+    "sentiment": "negative",
+    "text": "API seems overloaded. Every action takes forever. Not usable in this state."
+  },
+  {
+    "id": 20,
+    "day": 8,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "Duplicate charge on my account after a payment failure. This is a financial issue, not just a bug."
+  },
+  {
+    "id": 21,
+    "day": 8,
+    "rating": 3,
+    "sentiment": "neutral",
+    "text": "Feature works but I've noticed the app is much slower than it was last week."
+  },
+  {
+    "id": 22,
+    "day": 8,
+    "rating": 4,
+    "sentiment": "positive",
+    "text": "Still enjoying Smart Payments. Had one slow load but overall positive experience."
+  },
+  {
+    "id": 23,
+    "day": 9,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "Crashed on payment submission again. This has happened 3 times now. Absolutely unacceptable."
+  },
+  {
+    "id": 24,
+    "day": 9,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "I've stopped using Smart Payments entirely. Too unreliable. Please fix this."
+  },
+  {
+    "id": 25,
+    "day": 9,
+    "rating": 2,
+    "sentiment": "negative",
+    "text": "Support ticket still unresolved after 4 days. Payment failure is costing me real money."
+  },
+  {
+    "id": 26,
+    "day": 9,
+    "rating": 5,
+    "sentiment": "positive",
+    "text": "Best payment experience I've had on any app. Seamless from start to finish."
+  },
+  {
+    "id": 27,
+    "day": 9,
+    "rating": 3,
+    "sentiment": "neutral",
+    "text": "It's okay. Not as smooth as advertised but nothing catastrophic on my end."
+  },
+  {
+    "id": 28,
+    "day": 10,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "Considering legal action for the duplicate charge. This is unacceptable and I want a refund immediately."
+  },
+  {
+    "id": 29,
+    "day": 10,
+    "rating": 2,
+    "sentiment": "negative",
+    "text": "The feature is clearly not ready. Payments fail, app crashes, support is overwhelmed. Roll it back."
+  },
+  {
+    "id": 30,
+    "day": 10,
+    "rating": 1,
+    "sentiment": "negative",
+    "text": "Lost trust in this platform after multiple payment failures and a duplicate charge. Cancelling today."
+  }
+]
